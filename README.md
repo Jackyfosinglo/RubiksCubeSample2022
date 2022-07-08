@@ -1,0 +1,1 @@
+# RubiksCubeSample2022
